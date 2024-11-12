@@ -27,6 +27,13 @@
                     <button style="background-color: #ffffff;border-radius:25px;border:1px solid rgb(15, 28, 219);" class="w-100 d-flex justify-between btn mt-10">
                         <span style="font-weight:700">
                             <input type="radio" name="buys" id="subscribe" value="subscribe" style="margin-right: 3px" checked>
+                            Free Subscription (10days)
+                        </span>
+                        <span style="font-weight:700">Free</span>
+                    </button>
+                    <button style="background-color: #ffffff;border-radius:25px;border:1px solid rgb(15, 28, 219);" class="w-100 d-flex justify-between btn mt-10">
+                        <span style="font-weight:700">
+                            <input type="radio" name="buys" id="subscribe" value="subscribe" style="margin-right: 3px" checked>
                             {{__('common.subscribe')}}
                         </span>
                                             <span style="font-weight:700">10 $</span>
