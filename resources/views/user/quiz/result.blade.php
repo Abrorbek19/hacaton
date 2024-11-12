@@ -37,7 +37,7 @@
                             <input type="radio" name="buys" id="get_now" value="get_now" style="margin-right: 3px">
                             {{__('common.get_now')}}
                         </span>
-                        <span style="font-weight:700">15 $</span>
+                        <span style="font-weight:700">100 $</span>
                     </button>
 
 
